@@ -29,6 +29,7 @@ $ npm dev
 ## 📚 Tech Stack
 
 **Client:** React/Next.js, Styled Components
+
 **Screens:** [Figma here](https://www.figma.com/file/dLFc45Ho6KZrNx0ZFpTxA3/Sweeten?node-id=0%3A1)
 
 
