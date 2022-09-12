@@ -42,7 +42,7 @@ export default function Home() {
   // Modals
   const [showSettings, setShowSettings] = useState(false);
   const [showCreateProject, setShowCreateProject] = useState(false);
-  const [showCombinations, setShowCombinations] = useState(true);
+  const [showCombinations, setShowCombinations] = useState(false);
 
   const {variables} = useVariables();
 
